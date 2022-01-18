@@ -1,9 +1,7 @@
 ;一番最初に呼び出されるファイル
 
 [title name="西郷DON"]
-[html]
-  <link rel="apple-touch-icon" href="saigo_don.png">
-[endhtml]
+
 [cm]
 [stopbgm]
 [hidemenubutton]
