@@ -4,7 +4,6 @@
 [stopbgm]
 [clearfix]
 [start_keyconfig]
-[playbgm storage=op.mp3]
 
 @clearstack
 
@@ -12,6 +11,8 @@
 ;@jump storage="/story/debug.ks"
 
 [bg storage="title.png" width="1280"]
+
+[playbgm storage=op.mp3]
 
 
 
