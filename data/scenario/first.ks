@@ -4,7 +4,7 @@
 [html]
   <link rel="apple-touch-icon" href="saigo_don.png">
 [endhtml]
-
+[cm]
 [stopbgm]
 [hidemenubutton]
 [stop_keyconfig]
