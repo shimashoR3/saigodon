@@ -155,7 +155,7 @@
 あの、[emb exp="sf.togo_name"]。[l][r]
 ピンバッジが見つかるまで何か話を聞かせてくれませんか？[p]
 [font size="25"]	
-例えば、尊敬している[emb exp="sfsaigo_name"]の話とか…。[resetfont][p]
+例えば、尊敬している[emb exp="sf.saigo_name"]の話とか…。[resetfont][p]
 	
 #東郷平八郎	
 [quake count=2 wait=false time=300]？！[p]
