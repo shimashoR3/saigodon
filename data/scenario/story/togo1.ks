@@ -52,7 +52,7 @@
 （実家が[emb exp="sf.saigo_name"]と[emb exp="sf.okubo_name"]の近所だったらしくて[emb exp="sf.saigo_name"]のことをすごく尊敬しているとか…。）[p]	
 （イギリスで食べたビーフシチューが忘れられなくて日本で作らせたら肉じゃがができたとか、おしゃべりなのを[emb exp="sf.okubo_name"]に怒られて寡黙になったとか、かわいい逸話もあるんだよね。）[p]	
 （それにしても……玄関に出てきたときから思ってたけど、東郷平八郎の身長が小さいのって本当だったんだ！）[p]
-（[emb exp="sfatsuhime_name"]と一緒くらいなんじゃないかな…？[emb exp="sfsaigo_name"]と比べるとかなり小さいし…かわいい！）[l]	
+（[emb exp="sf.atsuhime_name"]と一緒くらいなんじゃないかな…？[emb exp="sf.saigo_name"]と比べるとかなり小さいし…かわいい！）[l]	
 
 [glink  color="ts14"  size="28"  x="1400"  width="500"  y="150"  text="東郷さん"  target="*select1-1" name="glink1"  ]
 [glink  color="ts14"  size="28"  x="1400"  width="500"  y="250"  text="へいちゃん"  target="*select1-2"  name="glink2" ]
