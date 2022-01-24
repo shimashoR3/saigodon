@@ -18,7 +18,7 @@
 
 [bg storage="way.jpg" method=slideInDown time=500]
 [stopbgm]
-[playbgm storage=yayoi.mp3]
+[playbgm storage=t_atsuhime.mp3]
 ;メッセージウィンドウの表示
 @layopt layer=message0 visible=true
 
