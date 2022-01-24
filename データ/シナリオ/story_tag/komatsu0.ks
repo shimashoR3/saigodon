@@ -16,6 +16,8 @@
 [bg storage="way.jpg" method=slideInDown time=500]
 [stopbgm]
 
+[playbgm storage=t_komatsu.mp3]
+
 ;メッセージウィンドウの表示
 @layopt layer=message0 visible=true
 
