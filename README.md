@@ -1,3 +1,4 @@
+---------------------------  
  ◇ソフト名  
 西郷DON  
 
@@ -40,6 +41,7 @@ DOVA-SYNDROME
 https://dova-s.jp/  
 効果音ラボ  
 https://soundeffect-lab.info/   
+---------------------------  
 
   
  ◆◇あらすじ◇◆  
