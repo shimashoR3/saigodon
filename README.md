@@ -1,3 +1,47 @@
+ ◇ソフト名  
+西郷DON  
+
+ ◇製作者  
+静岡県立島田商業高等学校 生徒  
+
+ ◇開発環境  
+Monaca Education  
+https://edu.monaca.io/  
+ティラノスクリプト  
+https://tyrano.jp/  
+
+ ◇バージョン  
+1.0.0  
+
+ ◇最終更新日  
+2022/01/25  
+
+ ◇サイトURL  
+Google Site  
+https://bit.ly/34ak7GI  
+Qiita  
+https://bit.ly/3FVTQZJ  
+
+ ◇お借りした素材  
+【ゲーム内プラグイン】  
+空想曲線  
+https://kopacurve.blog.fc2.com/  
+
+【背景・写真素材】  
+イラストAC  
+https://www.ac-illust.com/  
+ 写真AC  
+https://bit.ly/35angqe  
+
+【BGM・SE】  
+甘茶の音楽工房  
+https://amachamusic.chagasi.com/  
+DOVA-SYNDROME  
+https://dova-s.jp/  
+効果音ラボ  
+https://soundeffect-lab.info/   
+
+  
  ◆◇あらすじ◇◆  
 ある日、目が覚めると見知らぬ場所に来ていた主人公。  
 なんと、時は幕末、偉人を輩出した明治維新のふるさと『鹿児島』へとタイムスリップしてしまったのだ。  
@@ -47,48 +91,4 @@
  ◇注意事項  
 ○地図内でのピンの位置は多少ずれがある可能性があります。  
 ○記載されている情報がすべて正しいとは限りません。  
-
-
- ◇ソフト名  
-西郷DON  
-
- ◇製作者  
-静岡県立島田商業高等学校 生徒  
-
- ◇開発環境  
-Monaca Education  
-https://edu.monaca.io/  
-ティラノスクリプト  
-https://tyrano.jp/  
-
- ◇バージョン  
-1.0.0  
-
- ◇最終更新日  
-2022/01/25  
-
- ◇サイトURL  
-Google Site  
-https://bit.ly/34ak7GI  
-Qiita  
-https://bit.ly/3FVTQZJ  
-
- ◇お借りした素材  
-【ゲーム内プラグイン】  
-空想曲線  
-https://kopacurve.blog.fc2.com/  
-
-【背景・写真素材】  
-イラストAC  
-https://www.ac-illust.com/  
- 写真AC  
-https://bit.ly/35angqe  
-
-【BGM・SE】  
-甘茶の音楽工房  
-https://amachamusic.chagasi.com/  
-DOVA-SYNDROME  
-https://dova-s.jp/  
-効果音ラボ  
-https://soundeffect-lab.info/  
 
